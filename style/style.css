@@ -10,6 +10,15 @@ body
     background: #F0EFE2 url(download.jpg) repeat;
     color: #000;}
 
+h1, h2
+{ font: normal 175% 'century gothic', arial, sans-serif;
+    color: #000;
+    margin: 0 0 15px 0;
+    padding: 15px 0 5px 0;}
+
+h2
+{ font: normal 175% 'century gothic', arial, sans-serif;}
+
 #site_content
 { width: 854px;
     overflow: hidden;
@@ -22,13 +31,3 @@ body
     float: none;
     width: 800px;
     padding: 0;}
-
-#content ul
-{ margin: 2px 0 22px 0px;}
-
-#content ul li
-{ list-style-type: none;
-    margin: 0 0 6px 0;
-    padding: 0 0 4px 25px;
-;
-    line-height: 1.5em;}
