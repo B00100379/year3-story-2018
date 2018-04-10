@@ -9,3 +9,26 @@ body
 { font: normal .80em 'trebuchet ms', arial, sans-serif;
     background: #F0EFE2 url(download.jpg) repeat;
     color: #000;}
+
+#site_content
+{ width: 854px;
+    overflow: hidden;
+    margin: 0 auto 0 auto;
+    padding: 0 24px 20px 20px;
+    background: #F0EFE2 url(white.jpg) repeat;}
+
+#content
+{ text-align: left;
+    float: none;
+    width: 800px;
+    padding: 0;}
+
+#content ul
+{ margin: 2px 0 22px 0px;}
+
+#content ul li
+{ list-style-type: none;
+    margin: 0 0 6px 0;
+    padding: 0 0 4px 25px;
+;
+    line-height: 1.5em;}
